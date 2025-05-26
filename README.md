@@ -28,6 +28,14 @@
 ###
 ### 🧠 Languages & Programming
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin-right:15px;"/>
