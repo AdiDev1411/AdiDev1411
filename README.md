@@ -71,4 +71,10 @@
 ---
 
 <!-- Optional -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 💻 Portfolio Demo
+
+🔗### 🎥 Portfolio Preview
+
+![Demo](assets/demo.gif)
+
+
