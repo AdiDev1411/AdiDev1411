@@ -5,6 +5,7 @@
 
 ---
 
+
 ### 🔗 Connect with me
 
 <p align="left">
@@ -131,4 +132,9 @@
 
 > I automate boring stuff to make time for more boring stuff. 😄
 
+
 ---
+
+<img src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/snake.svg" alt="Snake animation" />
+
+###
