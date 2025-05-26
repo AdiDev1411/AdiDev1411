@@ -23,7 +23,9 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/snake.svg" alt="Snake animation" />
 
+###
 ### 🧠 Languages & Programming
 
 <p align="left">
