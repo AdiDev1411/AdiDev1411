@@ -75,6 +75,6 @@
 
 🔗### 🎥 Portfolio Preview
 
-![Demo](assets/demo.gif)
+![Demo](download.gif)
 
 
