@@ -1,3 +1,4 @@
+<img src="/Assets/">
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A Machine Learning Enthusiast & Full-Stack Developer</h3>
 
