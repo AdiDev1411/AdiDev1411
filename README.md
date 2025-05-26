@@ -20,19 +20,12 @@
   <a href="https://leetcode.com/u/adityacodec/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/snake.svg" alt="Snake animation" />
 
-###
 ### 🧠 Languages & Programming
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -93,6 +86,7 @@
 🔗 [Visit My Portfolio](https://portfolio-website-ohmn.vercel.app/)
 
 🎥 Preview:
+
 ![Demo](download.gif)
 
 ---
