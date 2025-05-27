@@ -139,8 +139,8 @@
 ---
 
 <div align="left">
-  <img src="/Assets/Animation.gif" alt="HI"/>
-  <img src="/Assets/AnimationReact.gif" />
+  <img src="/Assets/Animation.gif" alt="HI" width="30px"/>
+  <img src="/Assets/AnimationReact.gif" width="30px"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/snake.svg" alt="Snake animation" />
