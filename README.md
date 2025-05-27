@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="/Assets/Animation.gif" alt="HI"/>
-</div>
+
 
 
 <img align="center" src="/Assets/banner.webp" width="100%"/>
@@ -139,6 +137,11 @@
 
 
 ---
+
+<div align="left">
+  <img src="/Assets/Animation.gif" alt="HI"/>
+  <img src="/Assets/AnimationReact.gif" />
+</div>
 
 <img src="https://raw.githubusercontent.com/AdiDev1411/AdiDev1411/output/snake.svg" alt="Snake animation" />
 
