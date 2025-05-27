@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="/Assets/Animation.gif" alt="HI"/>
+</div>
+
+
 <img align="center" src="/Assets/banner.webp" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
